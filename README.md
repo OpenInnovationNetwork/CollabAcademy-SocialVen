@@ -1,4 +1,6 @@
-# CollabAcademy-SocialVen
-For the open source SocialVen project development
+# Conversion
+Awesome project with Dana and Dazza and... you?!
 
-* See: http://openinnovationnetwork.github.io/CollabAcademy-SocialVen
+Current code base: https://github.com/MassData/Conversion/tree/gh-pages/Code
+
+Website: http://massdata.github.io/Conversion/
